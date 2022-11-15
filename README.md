@@ -2,6 +2,7 @@
 This is a simple autohotkey script made to hide  
 "Portals: Desktop Organization" sofware from https://portals-app.com/  
 from the desktop when not used and show it with a dobble click
+- Download Tool (Compiled) Here: https://github.com/marvin1099/PortalsAutoHide/releases
 
 # Config
 To cofigure this you will have to edit the code and compile yourself.  
