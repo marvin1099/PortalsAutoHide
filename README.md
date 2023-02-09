@@ -8,7 +8,7 @@ from the desktop when not used and show it with a dobble click
 To cofigure this you will have to edit the code and compile yourself.  
 I dont want to put lots more effort into this right now.  
 I am still trying to finish my very adjustable windows file linking tool.  
-(This one https://codeberg.org/marvin1099/Sylink-Creator-Windows.)
+(This one https://codeberg.org/marvin1099/Syslink-Creator-Windows.)
 
  - Warning you have to probably click 3 times since you have to focus the  
    dekstop first to do this (you can also use Win+D that will focus the destop to)  
