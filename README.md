@@ -2,13 +2,13 @@
 This is a simple autohotkey script made to hide  
 "Portals: Desktop Organization" sofware from https://portals-app.com/  
 from the desktop when not used and show it with a dobble click
-- Download Tool (Compiled) Here: https://github.com/marvin1099/PortalsAutoHide/releases
+- Download Tool (Compiled) Here: https://codeberg.org/marvin1099/PortalsAutoHide/releases
 
 # Config
 To cofigure this you will have to edit the code and compile yourself.  
 I dont want to put lots more effort into this right now.  
 I am still trying to finish my very adjustable windows file linking tool.  
-(This one https://github.com/marvin1099/Sylink-Creator-Windows.)
+(This one https://codeberg.org/marvin1099/Sylink-Creator-Windows.)
 
  - Warning you have to probably click 3 times since you have to focus the  
    dekstop first to do this (you can also use Win+D that will focus the destop to)  
